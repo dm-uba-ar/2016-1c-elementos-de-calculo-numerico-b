@@ -1,4 +1,4 @@
-# Elementos de Cálculo Numérico (Biología) — Primer cuatrimestre de 2016
+# Elementos de Cálculo Numérico B — Primer cuatrimestre de 2016
 
 ## Prácticas
 
@@ -11,13 +11,6 @@
 - [Práctica 7](ecnb_1c16_practica7.pdf)
 - [Práctica 8](ecnb_1c16_practica8.pdf)
 - [Práctica 9](ecnb_1c16_practica9.pdf)
-
-## Bibliografía
-
-- \[1\] Burgos, J., Algebra Lineal . Mc Graw-Hill.
-- \[2\] Lipschutz, M., Algebra Lineal . Mc Graw-Hill.
-- \[3\] Toranzos, F., Schifini, C., Apuntes de la materia .
-- Created by webmaster
 
 ## Página original
 
